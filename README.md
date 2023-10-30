@@ -41,6 +41,12 @@
 - **IOM vs Residual Direct Effect**: Compare differences in predictions. Identify which approach generates larger disparities and for which racial groups.
 
 
+# How to Code in GitHub?
+
+## Dev Containers in GitHub Codepaces
+
+If you have access to GitHub CodeSpaces, click the green "<> Code" button at the top right on this repository page, and then select "Create codespace on main". (GitHub CodeSpaces is available with [GitHub Enterprise](https://github.com/enterprise) and [GitHub Education](https://education.github.com/).)
+
 ## To open RStudio Server, click the Forwarded Ports "Radio" icon at the bottom of the VS Code Online window.
 
 ![Forwarded Ports](img/forwarded_ports.png)
